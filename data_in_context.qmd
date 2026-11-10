@@ -1,0 +1,28 @@
+---
+title: "Data in Context"
+---
+
+## Contamination
+East Yard Communities for Environmental Justice holds, shares, and collects data in a way that honors the principles of data sovereignty and community autonomy. Exide Technologies lead contamination was tested for by EYCEJ in partnership with the University of Southern California and Occidental College. There was an initial testing done by Department of Toxic Substances Control, but did not sample enough houses. After the testing was expanded by EYCEJ, USC, and Occidental, the lead contamination was so high that there was an immediate need to share the results with the community regardless of academic publishing deadlines. By the time the paper was published, there was enough public knowledge of the contaminations range to push the Department of Toxic Substances Control to expand the testing range from 1.7 mile radius to a 4.5 mile radius. This advocacy and practice of sharing the data honors the role of EYCEJ, USC, and Occidental as community partners to share information regarding high levels of contamination because of the threat it posed to the communities health. The need to tell people the dangers of the contamination was prioritized rather than prioritizing privacy that held the data until it was published.
+
+The expansion of testing was able to be done because of the independent testing data being shared which is able to answer questions we asked above. This data shows the high lead contamination in East and South East Los Angeles that community members are facing. The data was not being withheld but was shared prior to it being published.
+
+\
+
+## Food Quality and Accessibility
+Lead contamination data was extremely helpful in legitimizing the need for this program where lead impacts not only soil, air, and water health, but ultimately human health as well. During the time this program was being developed, it was identified that there were not many markets to purchase quality produce within our neighborhoods. There were warehouses storing high quality produce in our communities (such as Lineage), but this food wasn’t made accessible to our communities until it was degraded and sent to ‘lower tier’ grocery stores such as Food4Less, El Super, and Superior. These foods are sent to ‘higher tier’ grocery stores and sent through the grocery store pipeline until they end up in lower-income communities and food banks. This initial need to grow food due to inaccessibility brought upon the program La Cosecha Colectiva, but within the context of the high lead contamination levels, it became almost necessary to have access to our communities own produce source.
+
+The ability to collect data is imperative to the health and wellness of our communities. Research driven by people's lived experiences serves as a legitimate enough motivation, but when trying to persuade funding, legislation, and physical action many times the need to view tangible data to legitimize a movement is essential to the progress of the movement. Lived experience as a form of data is important to the idea of what data is and what it can be.
+
+## PPDAC In Practice
+Recognizing what radius the lead contamination reaches to, where grocery stores and markets are located in a neighborhood, and where the sources of many environmental justice issues stem from are located are brought upon by lived experience and can be mapped using spatial data. Through the framework of PPDAC we can map out EYCEJ’s approach to lead contamination:
+
+- **Problem: People in East and South East LA have high rates of respiratory/cardiovascular illnesses and learning disabilities. There is an incinerator nearby that burns constantly and might be leaching heavy metals into the surrounding area.**
+
+- **Plan: Collect lead soil samples to test lead concentrations per house and map the concentrations of lead to find the source of the lead contamination. Use the data to push for clean-ups and lead testing in communities affected by contamination.**
+
+- **Data: Collect lead soil samples per house and map them.**
+
+- **Analysis: There were extremely dangerous, high levels of lead contamination that were surrounded around a large radius of the incineration factory.**
+
+- **Conclusion: There can be a causal relationship established between the incinerator and the lead contamination in the surrounding communities which can establish that corporation as responsible for cleanup and testing.**
